@@ -1,20 +1,18 @@
-# Assignment for (BMEVIIIAB06) Software Project Lab Course
+# Assignment for [Software Project Lab](https://www.iit.bme.hu/targyak/BMEVIIIAB02) Course
 
-Website of the course: https://www.iit.bme.hu/targyak/BMEVIIIAB02
+## Task: Develop and document a complex software product (game) with the waterfall model.
 
-# Task: Develop and document a complex software product (game) with the waterfall model.
-
-# Members: 
+### Members: 
 - Dancsó Marcell
 - Róna Balázs
 - Bajnok Vencel
 - Tóth András
 - Pelczhoffer Tamás
 
-# Documentation:
+### Documentation:
 Undertaken tasks, weekly progression, changes during design can be viewed in documentation.pdf (sadly only in Hungarian)
 
-# How to use final product:
+### How to use final product:
 
 Navigate to `\FulloschQtyusch`, Open a prompt and run `Qtyusch.jar` with the following command, where <mapName> is the name of the chosen file in the `\FulloschQtyusch\maps` directory.
 ```
@@ -29,14 +27,16 @@ view/*.java
 jar cvfm0 ..\Qtyusch.jar META-INF/MANIFEST.MF *
 ```
 
-# Screenshots from the game:
-## Shelter:
+## Screenshots from the game:
+### Shelter:
 ![ScreenShot](screenshots/1.png)
 
-## Warehouse:
+### Warehouse:
 ![ScreenShot](screenshots/2.png)
 
-## Infected Laboratory:
+### Infected Laboratory:
 ![ScreenShot](screenshots/3.png)
 
+## Additional tool: Map Generator
+Generates a suitable map for a custom game based on the given inputs.
 
