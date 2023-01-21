@@ -26,6 +26,9 @@ model/codes/*java model/equipments/*java model/map/*.java model/strategy/*.java
 view/*.java
 jar cvfm0 ..\Qtyusch.jar META-INF/MANIFEST.MF *
 ```
+  
+## Additional tool: Map Generator
+Generates a suitable map for a custom game based on the given inputs.
 
 ## Screenshots from the game:
 ### Shelter:
@@ -36,7 +39,4 @@ jar cvfm0 ..\Qtyusch.jar META-INF/MANIFEST.MF *
 
 ### Infected Laboratory:
 ![ScreenShot](screenshots/3.png)
-
-## Additional tool: Map Generator
-Generates a suitable map for a custom game based on the given inputs.
 
